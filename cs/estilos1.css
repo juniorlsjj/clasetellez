@@ -1,0 +1,33 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 25px;
+}
+body
+{
+    background-color: white;
+}
+h1
+{
+    pad: 15px;
+    border:10px;
+    border-style: dashed;
+    color:palevioletred;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    border-color:plum;
+}
+p 
+{
+    color: black;
+    text-align: justify;
+    border-radius: 8px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+
+}
+img 
+{
+    width: 45%;
+}
